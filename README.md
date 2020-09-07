@@ -1,2 +1,2 @@
 # agentscript
-repository for all our script i'm trying to figure out this
+This is the dev branch read me file
